@@ -6,4 +6,11 @@ body {
              margin: auto;}
 
 
-.logo{text-align: center;}
+.logo{}
+
+h1{text-align: center;
+   color:blue ;}
+
+h2{text-align: center;
+color:rgb(253, 222, 14);
+}

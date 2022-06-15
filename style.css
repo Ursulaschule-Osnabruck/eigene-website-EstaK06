@@ -1,16 +1,21 @@
 body { 
-    margin-left:30%;
-             margin-right: 15%;
-            margin-top: 20px;
-             width: 1000px;
-             margin: auto;}
+   margin-left:30%;
+            margin-right: 15%;
+           margin-top: 20px;
+            width: 1000px;
+            margin: auto;}
 
 
 .logo{}
 
 h1{text-align: center;
-   color:blue ;}
+   color:blue ;
+    font-family:Arvo;}
 
 h2{text-align: center;
 color:rgb(253, 222, 14);
+font-family: Arvo;
 }
+
+.carousel-turnen{margin-top: 2.5rem;}
+.navbar-startseite{margin-top: 1rem;}

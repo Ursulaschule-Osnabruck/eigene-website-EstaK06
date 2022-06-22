@@ -1,5 +1,5 @@
 
-body{}
+
 
 
 #logo {
@@ -18,6 +18,14 @@ h2 {
    color:rgb(253, 222, 14);
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
+h3 {
+   font-size: small;
+   background-color: dodgerblue;
+   padding: 2rem;
+}
+
 
 .carousel-turnen {
    padding-top: 2rem;
@@ -41,3 +49,5 @@ h2 {
    padding-top: 1rem;
    
 }
+
+

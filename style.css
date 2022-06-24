@@ -24,8 +24,14 @@ h3 {
    font-size: small;
    background-color: dodgerblue;
    padding: 2rem;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+h4 {
+   font-weight: bolder;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: x-large;
+}
 
 .carousel-turnen {
    padding-top: 2rem;
@@ -34,7 +40,61 @@ h3 {
 h5 {
    text-align: center;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bolder;
 }
+
+h6 {
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bolder;
+}
+
+h7 {
+   text-decoration: underline;
+   font-weight:bold ;
+   text-align: center;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: larger;
+}
+
+h8 {
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   text-decoration: underline;
+}
+
+h9 {
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   text-decoration: underline;
+}
+
+h10 {
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+   padding-bottom: 2rem;
+   text-decoration: underline;
+   font-size: larger;    
+}
+
+h11 {
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-top: 2rem;
+   text-decoration: underline;
+   font-size: x-large; 
+   text-align: center;   
+}
+
+
+
 
 .navbar-startseite {
    padding-top: 1rem;
@@ -59,12 +119,34 @@ h5 {
    padding-top: 2rem;
    padding-bottom: 2rem;
    
+   
   }
 
 
 .padding-bottom{
    padding-bottom: 6rem;
     
+}
+
+.aktuelles{
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+}
+
+.training-turnen{
+   margin: 10rem;
+}
+
+.training-trampolin{
+   margin: 10rem;
+}
+
+.bottom{
+   margin:0rem
+}
+
+.sportprogramm{
+   padding-top:0rem
 }
 
 

@@ -81,7 +81,7 @@ h10 {
   
    padding-bottom: 2rem;
    text-decoration: underline;
-   font-size: larger;    
+   font-size: x-large;    
 }
 
 h11 {
@@ -147,6 +147,10 @@ h11 {
 
 .sportprogramm{
    padding-top:0rem
+}
+
+.training-volleyball{
+   margin:10rem;
 }
 
 
